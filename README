@@ -6,12 +6,12 @@ This project reverse-engineers and recreates the core database structure of Tick
 
 This schema supports core ticketing operations, including:
 
-✅ Customer management  
-✅ Event and venue information  
-✅ Ticket sales and seating assignments  
-✅ Order and payment processing  
-✅ Venue images and profiles  
-✅ Currency, countries, and cities
+Customer management  
+Event and venue information  
+Ticket sales and seating assignments  
+Order and payment processing  
+Venue images and profiles  
+Currency, countries, and cities
 
 ---
 
