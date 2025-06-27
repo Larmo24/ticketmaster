@@ -1,0 +1,36 @@
+# Ticketmaster Database 
+
+This project reverse-engineers and recreates the core database structure of Ticketmaster to demonstrate a practical understanding of relational database design. The database was built using MySQL via MAMP/PhpMyAdmin.
+
+## Overview
+
+This schema supports core ticketing operations, including:
+
+✅ Customer management  
+✅ Event and venue information  
+✅ Ticket sales and seating assignments  
+✅ Order and payment processing  
+✅ Venue images and profiles  
+✅ Currency, countries, and cities
+
+---
+
+## Technologies Used
+
+- **Database**: MySQL (via MAMP/PhpMyAdmin)
+- **SQL**: DDL and DML scripts for creating tables and inserting seed data
+
+---
+
+## Getting Started
+
+1. Clone or download this repository.
+2. Open PhpMyAdmin (or your MySQL client) connected to your MySQL server.
+3. Import the `ticketmaster.sql` file provided in this repo to create the database and populate it with sample data:
+
+## Database Schema
+
+The following diagram shows the Ticketmaster database schema:
+
+![Ticketmaster Database Schema](DBSchema.png)
+
